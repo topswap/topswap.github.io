@@ -58,6 +58,13 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
+      "name": "TopdevSwap Token",
+      "symbol": "TOP",
+      "address": "0x36b1C4193FF850109ECB08074e4308E85c8BEce8",
+      "chainId": 97,
+      "decimals": 18
+    },
+    {
       "name": "Ethereum Token",
       "symbol": "ETH",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
